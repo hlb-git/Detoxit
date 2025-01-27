@@ -1,1 +1,1 @@
-# Welcome to the Filterit repository
+# Welcome to the Detoxit chrome extension repository
